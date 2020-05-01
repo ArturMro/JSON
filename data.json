@@ -1,0 +1,32 @@
+  
+{
+"name":"Artur",
+"surname": "Mroczkowski",
+"hobbies": ["coding", "movies", "audio systems"],
+"smoker": false,
+"audio collection": [{
+                    "category":"amplifiers",
+                    "brand": "Hifonics",
+                    "model": "TSI 1500",
+                    "RMS power": "1500 Watts"
+                    },
+                    {
+                    "category":"amplifiers",
+                    "brand": "Kicker",
+                    "model": "ZR 600",
+                    "RMS power": "800 Watts"
+                    },
+                    {
+                    "category":"subwoofers",
+                    "brand": "MTX",
+                    "model": "T815-44",
+                    "power handling": "1800 Watts"
+                    },
+                    {
+                     "category":"subwoofers",
+                     "brand": "JBL",
+                     "model": "W12GTI", 
+                     "power handling": "4000 Watts"
+                    }
+                    ]
+}
